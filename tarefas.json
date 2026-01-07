@@ -1,0 +1,20 @@
+[
+  {
+    "descricao": "ATIVIDADE DA FACUL",
+    "categoria": "Estudo",
+    "data": "2026-01-07",
+    "concluida": false
+  },
+  {
+    "descricao": "DENTISTA",
+    "categoria": "Pessoal",
+    "data": "2026-05-07",
+    "concluida": false
+  },
+  {
+    "descricao": "REUNIÃO DO TRABALHO",
+    "categoria": "Trabalho",
+    "data": "2026-06-07",
+    "concluida": false
+  }
+]
