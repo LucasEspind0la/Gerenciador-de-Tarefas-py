@@ -1,34 +1,45 @@
 <!-- 
-  📌 Dica: Use esta linha de comentário para manter o README organizado.
-  Este é o README profissional do Gerenciador de Tarefas em Python.
+  📌 Gerenciador de Tarefas em Python — Lucas Espíndola
+  Projeto focado em aprendizado, organização e construção de portfólio.
 -->
 
-# 🗂️ Gerenciador de Tarefas — Interface Terminal + Futura GUI
+# 🗂️ Gerenciador de Tarefas em Python
 
-> Um sistema prático e organizado para gerenciar suas tarefas diárias — criado com Python. Em constante evolução para se tornar uma ferramenta completa!
+> Um sistema prático para gerenciar tarefas diárias — criado com Python (terminal). Em evolução constante!
 
 ![Captura de Tela Principal](screenshots/gerenciador_tarefas.png)
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/LucasEspindola/Gerenciador-de-tarefas-py)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+[![Last Commit](https://img.shields.io/github/last-commit/LucasEspindola/Gerenciador-de-tarefas-py?color=orange)](https://github.com/LucasEspindola/Gerenciador-de-tarefas-py/commits/main)
+[![Stars](https://img.shields.io/github/stars/LucasEspindola/Gerenciador-de-tarefas-py?color=yellow)](https://github.com/LucasEspindola/Gerenciador-de-tarefas-py/stargazers)
+
+---
+
 ## 🚀 Funcionalidades Atuais
 
-✅ **Adicionar tarefas** — com categoria e data  
-✅ **Remover tarefas** — individual ou em massa  
-✅ **Visualizar lista completa** — com filtros por categoria  
-✅ **Persistência de dados** — salva automaticamente em `tarefas.json`  
+✅ **Adicionar tarefas**  
+✅ **Remover tarefas**  
+✅ **Listar todas as tarefas**  
+✅ **Persistência em `tarefas.json`**
 
 ---
 
-## 🛠 Em Desenvolvimento (Próximas Versões)
+## 🛠 Em Desenvolvimento
 
-🚧 **Agendamento por horário** — defina lembretes automáticos  
-🚧 **Interface Gráfica (GUI)** — com Tkinter ou PyQt (em breve!)  
-🚧 **Exportação para PDF/CSV** — para compartilhar ou imprimir  
-🚧 **Login múltiplo / perfis** — para uso familiar ou empresarial
+🚧 **Agendamento por horário**  
+🚧 **Interface gráfica (Tkinter/PyQt)**  
+🚧 **Exportação (PDF/CSV)**  
+🚧 **Filtros avançados**
 
 ---
 
-### 1. Clone o repositório:
+## 🖥️ Como Executar
+
 ```bash
 git clone https://github.com/LucasEspindola/Gerenciador-de-tarefas-py.git
+cd Gerenciador-de-tarefas-py
+python gerenciador_tarefas.py
