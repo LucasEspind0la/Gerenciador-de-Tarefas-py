@@ -36,10 +36,3 @@
 🚧 **Filtros avançados**
 
 ---
-
-## 🖥️ Como Executar
-
-```bash
-git clone https://github.com/LucasEspindola/Gerenciador-de-tarefas-py.git
-cd Gerenciador-de-tarefas-py
-python gerenciador_tarefas.py
