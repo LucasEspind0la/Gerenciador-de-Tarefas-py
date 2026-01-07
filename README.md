@@ -7,7 +7,7 @@
 
 > Um sistema prático e organizado para gerenciar suas tarefas diárias — criado com Python. Em constante evolução para se tornar uma ferramenta completa!
 
-![Captura de Tela Principal][(capturas%20de%20tela/gerente_tarefas.png)](https://github.com/LucasEspind0la/Gerenciador-de-Tarefas-py/blob/main/screenshots/gerenciador_tarefas.png?raw=true)
+![Captura de Tela Principal](capturas%20de%20tela/gerente_tarefas.png)
 
 ---
 
