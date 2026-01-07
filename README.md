@@ -7,7 +7,7 @@
 
 > Um sistema prático e organizado para gerenciar suas tarefas diárias — criado com Python. Em constante evolução para se tornar uma ferramenta completa!
 
-![Captura de Tela Principal](capturas%20de%20tela/gerente_tarefas.png)
+![Captura de Tela Principal](screenshots/gerenciador_tarefas.png)
 
 ---
 
@@ -28,8 +28,6 @@
 🚧 **Login múltiplo / perfis** — para uso familiar ou empresarial
 
 ---
-
-## 🖥️ Como Executar
 
 ### 1. Clone o repositório:
 ```bash
